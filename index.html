@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokémon Game</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div id="game">
+        <h1>My Pokémon Game</h1>
+        <div id="trainer-info">
+            <h2>Trainer: Ace</h2>
+            <p>Badges: 8</p>
+        </div>
+        <div id="pokemon-info">
+            <p>Pokémon: <span id="pokemonName">Charmander</span></p>
+            <p>Level: <span id="pokemonLevel">2</span></p>
+        </div>
+        <button id="levelUp">Level Up</button>
+        <button id="saveProgress">Save Progress</button>
+        <button id="loadProgress">Load Progress</button>
+    </div>
+    <script src="{{ url_for('static', filename='js/scripts.js') }}"></script>
+</body>
+</html>
