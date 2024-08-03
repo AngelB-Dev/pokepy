@@ -20,17 +20,18 @@ Este proyecto es un 'juego' de Pokémon super precario que utiliza HTML, CSS y J
    ```
 2. **Instala las Dependencias:**
 
-Asegúrate de que tu entorno virtual está activado, luego instala las dependencias del proyecto usando pip:
-```bash
-pip install -r requirements.txt
-```
+   Asegúrate de que tu entorno virtual está activado, luego instala las dependencias del proyecto usando pip:
+   ```bash
+   pip install -r requirements.txt
+   ```
 3. Ejecuta el Servidor Flask:
-Inicia el servidor Flask ejecutando el siguiente comando:
-```bash
-python app.py
-```
-El servidor estará disponible en http://127.0.0.1:5000.
+
+   Inicia el servidor Flask ejecutando el siguiente comando:
+   ```bash
+   python app.py
+   ```
+   El servidor estará disponible en http://127.0.0.1:5000.
 
 4. Abre el Proyecto en tu Navegador:
 
-Abre tu navegador web y navega a `http://127.0.0.1:5000` para ver la aplicación en funcionamiento.
+   Abre tu navegador web y navega a `http://127.0.0.1:5000` para ver la aplicación en funcionamiento.
