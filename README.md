@@ -1,6 +1,6 @@
 # Proyecto de Pokémon
 
-Este proyecto es un juego de Pokémon que utiliza HTML, CSS y JavaScript para el frontend, y Flask para el backend. A continuación, se detallan las instrucciones para ejecutar el proyecto localmente en tu máquina.
+Este proyecto es un 'juego' de Pokémon super precario que utiliza HTML, CSS y JavaScript para el frontend, y Flask para el backend. A continuación, se detallan las instrucciones para ejecutar el proyecto localmente en tu máquina.
 
 ## Requisitos
 
